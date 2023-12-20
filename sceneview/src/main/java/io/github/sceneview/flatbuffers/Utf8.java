@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.flatbuffers;
+package io.github.sceneview.flatbuffers;
 
 import java.nio.ByteBuffer;
 

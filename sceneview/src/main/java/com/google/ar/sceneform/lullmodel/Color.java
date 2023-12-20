@@ -4,8 +4,8 @@ package com.google.ar.sceneform.lullmodel;
 
 import java.nio.*;
 
-import java.util.*;
-import com.google.flatbuffers.*;
+import io.github.sceneview.flatbuffers.FlatBufferBuilder;
+import io.github.sceneview.flatbuffers.Struct;
 
 @SuppressWarnings("unused")
 public final class Color extends Struct {

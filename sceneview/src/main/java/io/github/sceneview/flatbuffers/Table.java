@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.google.flatbuffers;
+package io.github.sceneview.flatbuffers;
 
-import static com.google.flatbuffers.Constants.*;
+import static io.github.sceneview.flatbuffers.Constants.*;
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 import java.nio.charset.Charset;
